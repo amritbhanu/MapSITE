@@ -11,7 +11,7 @@
 
 The app is now available for [download at Google Play] (https://play.google.com/store/apps/details?id=com.mapsite&hl=en)
 
-Contributors:
+### Contributors:
 - Debraj Ray
 - Kapish Agarwal
 - Neha D Joshi
